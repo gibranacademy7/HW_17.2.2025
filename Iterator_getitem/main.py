@@ -11,8 +11,6 @@ from Question_1 import Question1
 from Question_2 import Question2
 
 
-
-
 if __name__ == "__main__":
     q1 = Question1()
     q2  =Question2()
