@@ -1,15 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5f1a4c5-59a8-4667-a427-75927bca15c2" name="Changes" comment="" />
+    <list default="true" id="f5f1a4c5-59a8-4667-a427-75927bca15c2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterator_getitem/Diagram &amp; Explanaition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iterator_getitem/Diagram &amp; Explanaition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterator_getitem/HW_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iterator_getitem/HW_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterator_getitem/Question_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iterator_getitem/Question_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterator_getitem/Question_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iterator_getitem/Question_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterator_getitem/Question_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iterator_getitem/Question_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterator_getitem/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iterator_getitem/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterator_getitem/question_3a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iterator_getitem/question_3a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterator_getitem/question_3b.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iterator_getitem/question_3b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterator_getitem/question_3c.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iterator_getitem/question_3c.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterator_getitem/recipe.py" beforeDir="false" afterPath="$PROJECT_DIR$/Iterator_getitem/recipe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/gibranacademy7/HW_17.2.2025.git",
+    "accountId": "f2c03911-c3af-423b-bbfc-61d70c837d3a"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -21,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
